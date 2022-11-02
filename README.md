@@ -8,7 +8,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmarceli&layout=compact&langs_count=7&theme=tokyonight"/>
 <div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmarceli&theme=tokyonight&show_icons=true)
+
 
 
 
