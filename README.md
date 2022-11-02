@@ -1,7 +1,7 @@
 # Hi there 👋 
 
 
-![Dmarceli's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmarceli&show_icons=true&theme=tokyonight)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dmarceli&bg_color=1b1b27&color=ffffff&line=6391da&point=795e9b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmarceli&theme=tokyonight)
