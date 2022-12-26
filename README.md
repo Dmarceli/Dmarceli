@@ -1,6 +1,6 @@
 <h1 style="text-align: center;">Hi there </h1>
-<p1>Welcome to my GitHub repository!
-
+<h2 style="text-align: center;"> Welcome to my GitHub repository!</h2>
+<p1 style="text-align: center;">
 Here you will find a collection of my latest projects, all neatly organized and easily accessible for your viewing pleasure.
 
  
