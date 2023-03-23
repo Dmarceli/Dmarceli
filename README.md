@@ -9,9 +9,8 @@ Here you will find a collection of my latest projects, all neatly organized and 
 <br/>
   <p align="left">
     <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Dmarceli&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" />
-      <img width="47.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dmarceli&theme=vue-dark&hide_border=true" />
   </p>
-  <p align="left">
+  <p align="right">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmarceli&layout=compact&theme=vue-dark&hide_border=true"/>
   </p>
 <br>
